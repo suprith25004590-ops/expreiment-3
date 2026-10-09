@@ -43,8 +43,8 @@ To write a Python program to demonstrate various string operations, such as find
 16.Stop the program.
 
 ## Source code 
-![Output 1](./3.0.png)
+![Output 1](./3.png)
 
 ## Output
 
-![Output 2](./3.2.png)
+![Output 2](./3.1.png)
